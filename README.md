@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mohamed Arshad - Web Developer Portfolio
 
-## Getting Started
+A personal portfolio and freelance services website built for Mohamed Arshad, a Full-Stack Web Developer based in Tamil Nadu, India. It highlights web development services, pricing plans, past projects, and provides a direct channel for clients to get in touch.
 
-First, run the development server:
+## 🚀 Built With
 
-```bash
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Library**: [React](https://reactjs.org/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations/Effects**: Custom CSS and Glassmorphism
+
+## 🌟 Features
+
+- **Responsive Design**: Mobile-first architecture ensuring perfect view on all screen sizes.
+- **Dark/Light Mode**: Full theme support with elegant toggles.
+- **Modern UI**: Text-centric project cards with subtle hover dynamics and a sleek layout.
+- **Pricing & Services**: Dedicated sections detailing transparent pricing packages.
+- **Projects Showcase**: Interactive grid highlighting past work and active solutions.
+- **Custom Integrations**: Dynamic theme switch-friendly grid background layout.
+
+## 📦 Getting Started
+
+First, install the dependencies:
+
+`ash
+npm install
+`
+
+Then, run the development server:
+
+`ash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤝 Contact
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Email**: mohamedarshad1507@gmail.com
+- **LinkedIn**: [Mohamed Arshad](https://www.linkedin.com/in/mohamed-arshad-3b8269380/)
+- **GitHub**: [mohamedarshad-code](https://github.com/mohamedarshad-code)
